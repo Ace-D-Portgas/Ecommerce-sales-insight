@@ -19,6 +19,7 @@ Implementing the approach is expected to result in:
  * Enhanced data analysis and understanding
  * Improved decision-making through comprehensive dashboards
  * Increased efficiency in data cleaning and transformation
+ * Top as well as bottom selling products can be identified by Profit, Sales by State and category
    
 
 
